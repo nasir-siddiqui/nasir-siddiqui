@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 💼 I’m looking to collaborate on open source projects and contribute to the community.
 - 📫 How to reach me: [contact@nasir.pro](mailto:contact@nasir.pro)
-- ⚡ Fun fact: I love exploring new places and cultures.
+- ⚡ Fun fact: I love exploring new website and design.
 
 ## Skills
 
@@ -27,7 +27,7 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-siddiqui-613182249/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/nasir_siddiqui](https://x.com/iNasir_pro))
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)]([https://x.com/iNasir_pro))
 [![Personal Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://nasir.pro)
 
 ---
