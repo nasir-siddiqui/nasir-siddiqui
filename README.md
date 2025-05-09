@@ -11,18 +11,14 @@
 
 ## Skills
 
-- **Languages:** Python, JavaScript, C++, SQL
+- **Web Developement:** HTML, CSS, JS, PHP, MYSQL, REACTJS, NODEJS, EXPRESS, MongoDB
+- **Languages:** Python, JavaScript, C++, PHP
 - **Frameworks:** React, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL
 
 ## GitHub Stats
 
 ![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasir-siddiqui&show_icons=true&theme=radical)
-
-## Top Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nasir-siddiqui&repo=example-repo&theme=radical)](https://github.com/nasir-siddiqui/example-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nasir-siddiqui&repo=another-repo&theme=radical)](https://github.com/nasir-siddiqui/another-repo)
 
 ## Connect with Me
 
