@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 💼 I’m looking to collaborate on open source projects and contribute to the community.
-- 📫 How to reach me: [contact@nasir.pro](mailto:contact@nasir.pro)
+- 📫 How to reach me: [ns075829@gmail.com](mailto:ns075829@gmail.com)
 - ⚡ Fun fact: I love exploring new website and design.
 
 ## Skills
@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://nasir.pro/linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/iNasir_pro)
-[![Personal Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://nasir.pro)
+[![Personal Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://nasirsid.xyz/)
 
 ---
 
